@@ -29,9 +29,9 @@ self.view.addSubview(tabBarView)
 ### Implement buttonTappedAtIndex
 ```swift
 func buttonTappedAtIndex(index: Int) {
-        switch index{
-        case 0:
-           //do something
-        }
+    switch index{
+    case 0:
+        //do something
     }
+}
  ```
